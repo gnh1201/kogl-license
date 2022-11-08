@@ -48,13 +48,13 @@ Open License Marking Criteria for Public Works
     It is the basic liability for KOGL to indicate the copyright (source), and can impose obligations such as change prohibition, commercial use prohibition, etc. KOGL's 4 types of symbol marks and scope of the license are shown in the table.
 
     - Type 1 (Source Indication)
-      The user can freely use the public work without fee, and can change it to create secondary work.Type 2
+      The user can freely use the public work without fee, and can change it to create secondary work.
 
     - Type 2 (Type 1 + Commercial Use Prohibition)
-      The user can freely use the public work without fee, and can change it to create secondary work, but it is not permitted to use for commercial purpose.Type 3
+      The user can freely use the public work without fee, and can change it to create secondary work, but it is not permitted to use for commercial purpose.
 
     - Type 3 (Type 1 + Change Prohibition)
-      The user can freely use the public work regardless of its commercial use without fee, but it is not permitted to change or modify the contents of public work.Type 4
+      The user can freely use the public work regardless of its commercial use without fee, but it is not permitted to change or modify the contents of public work.
       
     - Type 4 (Type 1 + Commercial Use Prohibition + Change Prohibition)
       The user can freely use the public work without fee, but it is not permitted to use for commercial purpose, or to change or modify the contents of public work.
