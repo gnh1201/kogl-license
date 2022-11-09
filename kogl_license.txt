@@ -1,4 +1,6 @@
-[filename] is licensed under the KOGL Type [1-4]
+{filename} is licensed under the KOGL Type {1-4}
+
+(c) { }-gu ({ } district office, Govt.), Seoul, Republic of Korea
 
 License documentation original link: https://www.kogl.or.kr/info/license.do
 
